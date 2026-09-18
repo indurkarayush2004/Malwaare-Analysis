@@ -27,7 +27,8 @@ infrastructure.
 network used in the Wazuh lab) or fully disabled for the highest-risk samples.
 - For dynamic analysis where fake network responses are needed (so the malware "believes" it has
 internet access), INetSim or FakeNet-NG is run on the Kali/analyst side to simulate DNS, HTTP,
-and HTTPS responses without any real outbound connection.<img width="857" height="954" alt="Screenshot_20260918_215244" src="https://github.com/user-attachments/assets/f67a64cf-6432-4515-8b71-c9f6359ca6ec" />
+and HTTPS responses without any real outbound connection.
+<img width="857" height="954" alt="Screenshot_20260918_215244" src="https://github.com/user-attachments/assets/f67a64cf-6432-4515-8b71-c9f6359ca6ec" />
 
 - A clean VM snapshot is taken before every detonation, so the machine can be reverted to a
 known-good state after each sample — malware execution is never done on a machine that will
@@ -42,7 +43,7 @@ whether a full dynamic detonation is even necessary.
 
 - I Downloaded the EICAR Malicious file for static analysis in my VM windows machine
 
-<img width="857" height="954" alt="Screenshot_20260918_215244" src="https://github.com/user-attachments/assets/ce6f07cb-2875-4c09-a804-655407e1630f" />
+
 - i downloaded the Malicious file in My windows
 - Now start analysing the malicious file 
 
