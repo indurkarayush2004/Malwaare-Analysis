@@ -46,7 +46,16 @@ whether a full dynamic detonation is even necessary.
 - i downloaded the Malicious file in My windows
 - Now start analysing the malicious file 
 
-<img width="856" height="616" alt="Screenshot_20260918_221829" src="https://github.com/user-attachments/assets/907d4edf-9a94-4e1c-8ca5-bb6aaefcf51b" />
-
 <img width="852" height="713" alt="Screenshot_20260918_222128" src="https://github.com/user-attachments/assets/2adcb119-0d74-44e4-a4fd-a81970f42cce" />
 
+- find the Hash with using: Get-FileHash file_name
+- find string: Get-Content File_name
+
+- Use Pestudio for analysing the malwaree 
+
+<img width="994" height="982" alt="Screenshot_20260918_223845" src="https://github.com/user-attachments/assets/dd5f5695-3247-4020-9383-cd8e91aaeac7" />
+
+- PEstudio use for static inspection
+- DIE Detect it easy tool use for identify the technology packer
+- strings tool use to find redable text inside the binary
+- Ghidra use  for reverse-engineering
