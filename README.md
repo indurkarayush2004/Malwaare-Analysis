@@ -60,3 +60,12 @@ whether a full dynamic detonation is even necessary.
 - DIE Detect it easy tool use for identify the technology packer
 - strings tool use to find redable text inside the binary
 - Ghidra use  for reverse-engineering
+
+## *Dynamic Analysis*
+
+- here we run that file and analyse the behaviour of that file that process DNS process requests etc..
+- here we run the file in sandbox environment and analyze it in Process monitor
+
+ <img width="994" height="982" alt="Screenshot_20260918_235835" src="https://github.com/user-attachments/assets/0ed9155f-fa8e-4aa2-9389-a8f1f71c9458" />
+
+ - also can use wireshark for packet analysis, Process explorer that will show the after process of that file execution
