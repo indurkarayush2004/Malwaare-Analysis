@@ -46,4 +46,7 @@ whether a full dynamic detonation is even necessary.
 - i downloaded the Malicious file in My windows
 - Now start analysing the malicious file 
 
+<img width="856" height="616" alt="Screenshot_20260918_221829" src="https://github.com/user-attachments/assets/907d4edf-9a94-4e1c-8ca5-bb6aaefcf51b" />
+
+<img width="852" height="713" alt="Screenshot_20260918_222128" src="https://github.com/user-attachments/assets/2adcb119-0d74-44e4-a4fd-a81970f42cce" />
 
